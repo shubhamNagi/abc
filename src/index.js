@@ -29,10 +29,10 @@ class Root extends Component {
                 <HashRouter basename="/">
 	                <div>
 	                <Switch>
-	                    <Route exact path="/" component={HomeV2} />
-	                    {/* <Route exact path="/home-v2" component={HomeV2} /> */} {/* pitora mideia */}
-	                    {/* <Route exact path="/home-v3" component={HomeV3} />  git remote add origin https://animation-shubham-admin@bitbucket.org/animation-shubham/shubham.git
-	                    <Route exact path="/home-v4" component={HomeV4} /> */}
+	                    <Route exact path="/" component={HomeV1} />
+	                    <Route exact path="/home-v2" component={HomeV2} />  {/* pitora mideia  git remote add origin https://animation-shubham-admin@bitbucket.org/animation-shubham/shubham.git*/}
+	                    <Route exact path="/home-v3" component={HomeV3} />  
+	                    <Route exact path="/home-v4" component={HomeV4} />
 	                    <Route path="/about" component={About} />
 	                    <Route path="/service" component={Service} />
 	                    <Route path="/service-v2" component={ServiceV2} />
