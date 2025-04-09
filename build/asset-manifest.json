@@ -1,10 +1,18 @@
 {
   "files": {
-    "main.js": "/demo/react/bizkar/static/js/main.e3fd5b88.js",
+    "main.css": "/demo/react/bizkar/static/css/main.355bcee3.css",
+    "main.js": "/demo/react/bizkar/static/js/main.96f5c938.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/demo/react/bizkar/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/demo/react/bizkar/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/demo/react/bizkar/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/demo/react/bizkar/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/demo/react/bizkar/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/demo/react/bizkar/index.html",
-    "main.e3fd5b88.js.map": "/demo/react/bizkar/static/js/main.e3fd5b88.js.map"
+    "main.355bcee3.css.map": "/demo/react/bizkar/static/css/main.355bcee3.css.map",
+    "main.96f5c938.js.map": "/demo/react/bizkar/static/js/main.96f5c938.js.map"
   },
   "entrypoints": [
-    "static/js/main.e3fd5b88.js"
+    "static/css/main.355bcee3.css",
+    "static/js/main.96f5c938.js"
   ]
 }
